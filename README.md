@@ -1,4 +1,4 @@
-# laravStart
+# Laravel Web App
 Starter Admin For Laravel. 
 
 <b> Here are the things I used in this project </b>
